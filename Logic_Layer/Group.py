@@ -7,5 +7,14 @@ class Group:
         self.group_members_id=group_members_id
         self.group_admin=group_admin
 
-    def Get_Group_info():
+    def Get_Group_Name():
+        return "Not Implemented"
+
+    def Get_Group_Profile():
+        return "Not Implemented"
+
+    def Get_Group_Admins():
+        return "Not Implemented"
+
+    def Get_Group_Members():
         return "Not Implemented"
